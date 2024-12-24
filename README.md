@@ -73,5 +73,6 @@ git clone https://github.com/ifeanyiojji/Kidney-Disease-Prediction.git
 
 Install the required libraries
 pip install -r requirements.txt
+
 Open the file web_app.py in a Python environment and run it 
 
